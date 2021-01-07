@@ -1,7 +1,7 @@
 # Magic!
 Magic! is a command-line card game resembling Yu-Gi-Oh!, or Magic: The Gathering. The various cards and abilities are implemented using objective-C++ strategies (polymorphism and the Observer design pattern, etc.).
 
-# How to play
+## How to play
 After running 
     make you can begin a game on the command-line by running the following (with optional -flags)  
 ```
